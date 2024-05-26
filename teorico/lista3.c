@@ -267,5 +267,3 @@ de candidatos do sexo masculino, mostrando o código e o nome do curso. - Calcul
 
     return 0;
 }*/
-
-int main
