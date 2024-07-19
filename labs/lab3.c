@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 //1) Fazer um programa para calcular a soma dos números pares que sejam menores do que N. N deve ser informado pelo usuário.
-/*int main() {
+int main() {
     int N, soma = 0;
 
     printf("Digite um numero: ");
@@ -14,7 +14,7 @@
     }
     printf("Soma: %d", soma);
     return 0;
-}*/
+}
 
 //2) Fazer um programa para ler as notas dos alunos de uma turma. O programa deverá informar ao final: a maior nota, a menor nota e a nota média. 
 //A última nota a ser informada, que não deverá ser considerada nos cálculos, conterá um valor menor do que zero.
@@ -44,7 +44,7 @@
 }*/
 
 //3) Calcular o maior peso, o menor peso e a media;
-/*int main() {
+int main() {
     int cod, codMaior = 0, codMenor = 0;
     double peso, maior = 0, menor = 1000, media = 0, pesoTotal = 0, i = 0;
 
@@ -86,4 +86,4 @@
     printf("O maior peso: %.2lf, identificador: %d,\nO menor peso: %.2lf, identtificador: %d,\nMedia: %.2lf", maior, codMaior, menor, codMenor, media);
 
     return 0;
-}*/
+}
